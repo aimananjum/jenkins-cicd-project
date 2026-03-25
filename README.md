@@ -16,4 +16,4 @@ Automated pipeline: GitHub push triggers Jenkins → builds Docker image
 - Flask App:  http://EC2_IP:5000
 
 ## Tech Stack
-Jenkins | Docker | DockerHub | GitHub Webhooks | Python Flask | AWS EC2 server
+Jenkins | Docker | DockerHub | GitHub Webhooks | Python Flask | AWS EC2 server |
